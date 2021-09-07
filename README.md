@@ -4,16 +4,20 @@ In this assignment, you'll create a simple web page built with Markdown that dis
 
 If you ever have any questions about Markdown syntax, feel free to reference the documentation here: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-### Instructions
+# Austin Flatt
 
-1. Start by forking this repository
-1. In your "fork" of the repository, edit the `README.md` and replace all of the previous content with your own Markdown which should contain:
-    * A title (your name)
-    * At least one picture
-    * At least one link (this could be to your GitHub page, your LinkedIn, or whatever you want)
-    * At least one bullet point list
-    * At least one numbered list
-1. Once you've added all of the previous elements, read through this markdown cheatsheet (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and add one additional element not previously listed
+![alt text](https://media-exp1.licdn.com/dms/image/C4E03AQH7ISh0EB7yfA/profile-displayphoto-shrink_800_800/0/1626403453654?e=1636588800&v=beta&t=G2PfBJWmXu_WIgZ59_1WGOMtM-5_4oO7FIfUZzLVeQA "Austin Flatt")
+
+## Where you can find me 🌎
+   * [Portfolio Website](https://www.austinflatt.com)
+   * [LinkedIn](https://www.linkedin.com/in/austindflatt)
+   * [GitHub](https://www.github.com/austindflatt)
+
+## A few of my favorite books 📚
+   1. Rich Dad Poor Dad by Robert Kiyosaki and Sharon Lechter
+   2. The 4 Disciplines of Execution by Chris McChesney
+   3. The Book on Rental Property Investing by Brandon Turner
+
+
 1. Once you're done with this, adjust the settings of your repoistory to enable GitHub Pages. This should provide you a URL at which your project is hosted.
 2. Update the "About" section of your repository so that your project's "website" is the GitHub Pages URL
-3. Finally, turn in a link to your repository on Populi
