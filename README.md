@@ -1,9 +1,3 @@
-# Markdown Portfolio
-
-In this assignment, you'll create a simple web page built with Markdown that displays information about yourself.
-
-If you ever have any questions about Markdown syntax, feel free to reference the documentation here: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-
 # Austin Flatt
 
 ![alt text](https://media-exp1.licdn.com/dms/image/C4E03AQH7ISh0EB7yfA/profile-displayphoto-shrink_800_800/0/1626403453654?e=1636588800&v=beta&t=G2PfBJWmXu_WIgZ59_1WGOMtM-5_4oO7FIfUZzLVeQA "Austin Flatt")
